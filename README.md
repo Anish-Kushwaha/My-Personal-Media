@@ -63,11 +63,11 @@ It helps organizations, HR teams, collaborators, and mentors easily verify my pr
 - Anish-kushwaha.b12sites.com
 
 **Social Profiles:**  
-- **LinkedIn:** https://www.linkedin.com/in/anish-kushwaha-43a915383  
-- **GitHub:** https://github.com/Anish-Kushwaha  
-- **LeetCode:** https://leetcode.com/u/Anish-Kushwaha  
-- **HackerRank:** https://hackerrank.com/profile/Anish_Kushwaha  
-- **X (Twitter):** https://x.com/Anish_Kushwaha_
+- **LinkedIn:** (https://www.linkedin.com/in/anish-kushwaha-43a915383)
+- **GitHub:** (https://github.com/Anish-Kushwaha) 
+- **LeetCode:** (https://leetcode.com/u/Anish-Kushwaha) 
+- **HackerRank:** (https://hackerrank.com/profile/Anish_Kushwaha) 
+- **X (Twitter):** (https://x.com/Anish_Kushwaha_)
 
 ---
 
